@@ -22,8 +22,14 @@ Designer, UI Designer e Front-End
 </div>
 
 ##
-<div id="github-stats">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MenesesDani&hide_border=true&show_icons=true&card_width=320&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0526D0&title_color=ffffff"> 
-    &nbsp;
+
+<div>
+    
+<a href="https://github.com/MenesesDani">
+    
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenesesDani&layout=compact&langs_count=7&theme=dark"/>
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MenesesDani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 </div>
 
